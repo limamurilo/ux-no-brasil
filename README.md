@@ -15,6 +15,6 @@ EDUCAÇÃO
 LEITURA
 
 DISCUSSÃO
-- Club
-- <a href="https://github.com/limamurilo/ux-no-brasil/blob/master/IXDA"> IXDA</a>
+- <a href="https://github.com/limamurilo/ux-no-brasil/blob/master/Discussao/UxBookClub.md"> UX Book Club</a>
+- <a href="https://github.com/limamurilo/ux-no-brasil/blob/master/Discussao/IXDA.md"> IXDA</a>
 - UXPA
