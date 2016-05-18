@@ -16,5 +16,5 @@ LEITURA
 
 DISCUSSÃO
 - Club
-- IXDA
+- <a href="https://github.com/limamurilo/ux-no-brasil/blob/master/IXDA"> IXDA</a>
 - UXPA
