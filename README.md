@@ -1,7 +1,20 @@
 # UX no Brasil
 Repositório de links sobre experiência do usuário.
 
-Sua Região 
-Mercado
-Educação
-Leitura e Discussão
+SUA REGIÃO
+- Norte
+- Nordeste
+- Centro Oeste
+- Sudeste
+- Sul
+
+MERCADO
+
+EDUCAÇÃO
+
+LEITURA
+
+DISCUSSÃO
+- Club
+- IXDA
+- UXPA
